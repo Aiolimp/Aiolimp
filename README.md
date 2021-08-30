@@ -9,7 +9,10 @@
 
 # Make some Wheels
 
-- [基于Vue和腾讯云即时通讯的IM聊天]()
+- [基于Vue和腾讯云即时通讯的IM聊天](https://github.com/Aiolimp/IM-VisitorMessage)
+- [前端知识整理](https://github.com/Aiolimp/Aiolimp-Library)
+- [个人博客](https://aiolimp.github.io/)
+
 
 <!--
 **Aiolimp/Aiolimp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
