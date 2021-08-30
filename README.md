@@ -7,13 +7,9 @@
 - 偶尔看书、看看电影
 - 简历(待更)
 
-# Weekly development breakdown
+# Make some Wheels
 
-- JavaScript   30 hrs 35 mins  ██████████████████▒░░░░░░   72.87 % 
-- TypeScript   3 hrs 11 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-- JSON           2 hrs           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-- Vue.js       1 hr 51 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-- Markdown     1 hr 32 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+- [基于Vue和腾讯云即时通讯的IM聊天]()
 
 <!--
 **Aiolimp/Aiolimp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
