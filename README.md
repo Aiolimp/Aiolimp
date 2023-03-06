@@ -2,6 +2,8 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Aiolimp&show_icons=true&theme=dark&count_private=true)
 
+<img src="https://visitor-badge.glitch.me/badge?page_id=Github[主页地址](https://github.com/Aiolimp)&right_color=red" />
+
 
 - JavaScript/Vue
 - 偶尔写写博客
