@@ -1,5 +1,8 @@
 # Hi there 👋
 
+![](https://github-readme-stats.vercel.app/api?username=Aiolimp&show_icons=true&theme=dark&count_private=true)
+
+
 - JavaScript/Vue
 - 偶尔写写博客
 - 偶尔逛逛掘金||b站
