@@ -1,15 +1,13 @@
 # Hi there 👋
 
 ![](https://github-readme-stats.vercel.app/api?username=Aiolimp&show_icons=true&theme=dark&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aiolimp&theme=dark&layout=compact)
-
 
 
 - JavaScript/Vue
 - 偶尔写写博客
 - 偶尔逛逛掘金||b站
 - 偶尔看书、看看电影
-- 5只四角吞金兽的铲屎官
+- 2只四角吞金兽的铲屎官
 - 简历(待更)
 
 # Make some Wheels
