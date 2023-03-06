@@ -2,15 +2,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Aiolimp&show_icons=true&theme=dark&count_private=true)
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=Github[主页地址](https://github.com/Aiolimp)&right_color=red" />
-
-
-- JavaScript/Vue
-- 偶尔写写博客
-- 偶尔逛逛掘金||b站
-- 偶尔看书、看看电影
-- 2只四角吞金兽的铲屎官
-- 简历(待更)
 
 # Make some Wheels
 
