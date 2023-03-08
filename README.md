@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=Aiolimp&show_icons=true&theme=dark&count_private=true)
+
 
 
 # Make some Wheels
